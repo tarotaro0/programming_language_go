@@ -1,0 +1,6 @@
+hoge
+hoge
+fuga
+test
+hello
+hello, world
